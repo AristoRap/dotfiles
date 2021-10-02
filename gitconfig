@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aristotelisrapai@gmail.com
+	name = Aristotelis Rapai
